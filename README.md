@@ -5,3 +5,8 @@ Day 1{
         Desgined Navigation bar, home sectionn, and something about section
     }
 }
+DAy 2{
+    Portfolio {
+        About Section Almost Complete just style is left.
+    }
+}
