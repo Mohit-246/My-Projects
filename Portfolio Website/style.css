@@ -64,10 +64,19 @@ html {
             font-size: 80px;
         }
 
-        p {
-            font-size: 25px;
-            color: white
-        }
+       a{
+        height: 50px;
+        width: 150px;
+        text-align: center;
+        color: white;
+        text-decoration: none;
+        background-color: rgb(141, 141, 228);
+        border: black 1px;
+        border-radius: 5%;
+        margin: 0 20px;
+        padding: 1rem;
+        
+       }
     }
 }
 
